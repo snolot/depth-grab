@@ -21,6 +21,3 @@ press SHIFT + 4 for camera front depth
 
 Check the [video](https://youtu.be/n5oOevmhbI8) on youtube.
 
-
-
-## Goal
